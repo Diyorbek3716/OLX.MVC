@@ -7,8 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <Folder Include="DataTransferObjects\" />
+    <Folder Include="Abstract\" />
+    <Folder Include="AccessConfigurations\" />
+    <Folder Include="Attributes\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Exceptions\" />
   </ItemGroup>
 
   <ItemGroup>
