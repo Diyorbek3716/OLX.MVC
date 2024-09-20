@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\bin\Debug\net8.0\HotelProject.Persistence.deps.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\bin\Debug\net8.0\HotelProject.Persistence.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\bin\Debug\net8.0\HotelProject.Persistence.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\HotelProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\HotelProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\HotelProject.Persistence.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\HotelProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\HotelProject.Persistence.sourcelink.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\HotelProject.Persistence.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\refint\HotelProject.Persistence.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\HotelProject.Persistence.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Persistence\obj\Debug\net8.0\ref\HotelProject.Persistence.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HotelProject.Persistence/1.0.0": {
+        "runtime": {
+          "HotelProject.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotelProject.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

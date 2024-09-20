@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\bin\Debug\net8.0\HotelProject.Infrastructure.deps.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\bin\Debug\net8.0\HotelProject.Infrastructure.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\bin\Debug\net8.0\HotelProject.Infrastructure.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\HotelProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\HotelProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\HotelProject.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\HotelProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\HotelProject.Infrastructure.sourcelink.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\HotelProject.Infrastructure.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\refint\HotelProject.Infrastructure.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\HotelProject.Infrastructure.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Infrastructure\obj\Debug\net8.0\ref\HotelProject.Infrastructure.dll

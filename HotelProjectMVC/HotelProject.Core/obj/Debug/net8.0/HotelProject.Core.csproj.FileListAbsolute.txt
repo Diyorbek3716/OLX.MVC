@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.deps.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.runtimeconfig.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\bin\Debug\net8.0\HotelProject.Core.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.sourcelink.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.Fody.CopyLocal.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\refint\HotelProject.Core.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\HotelProject.Core.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.Core\obj\Debug\net8.0\ref\HotelProject.Core.dll

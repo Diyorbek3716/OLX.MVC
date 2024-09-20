@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\bin\Debug\net8.0\HotelProject.BL.deps.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\bin\Debug\net8.0\HotelProject.BL.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\bin\Debug\net8.0\HotelProject.BL.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\HotelProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\HotelProject.BL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\HotelProject.BL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\HotelProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\HotelProject.BL.sourcelink.json
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\HotelProject.BL.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\refint\HotelProject.BL.dll
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\HotelProject.BL.pdb
+C:\Users\Admin\Desktop\GithabProjects\HotelProjectMVC\HotelProject.BL\obj\Debug\net8.0\ref\HotelProject.BL.dll
