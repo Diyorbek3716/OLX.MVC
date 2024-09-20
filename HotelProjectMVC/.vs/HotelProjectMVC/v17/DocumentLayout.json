@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\identitymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\identitymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\hotelprojectidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\hotelprojectidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3A26A7-EF40-4E88-AD2D-342E45AAAF7E}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.core\\accessconfigurations\\secretkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3A26A7-EF40-4E88-AD2D-342E45AAAF7E}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\accessconfigurations\\secretkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6EA8053-6D85-4E8E-941D-F05F5035E799}|HotelProject.Persistence\\HotelProject.Persistence.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.persistence\\hotelproject.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6EA8053-6D85-4E8E-941D-F05F5035E799}|HotelProject.Persistence\\HotelProject.Persistence.csproj|solutionrelative:hotelproject.persistence\\hotelproject.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D02BA6-23F9-430A-A60C-C47983C393CA}|HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.infrastructure\\hotelproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39D02BA6-23F9-430A-A60C-C47983C393CA}|HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj|solutionrelative:hotelproject.infrastructure\\hotelproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\constants\\claimnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\constants\\claimnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\claimsprincipalfactory\\hotelprojectclaimprincipalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\claimsprincipalfactory\\hotelprojectclaimprincipalfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A3A26A7-EF40-4E88-AD2D-342E45AAAF7E}|HotelProject.Core\\HotelProject.Core.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +87,8 @@
       "RelativeMoniker": "D:0:0:{8A3A26A7-EF40-4E88-AD2D-342E45AAAF7E}|HotelProject.Core\\HotelProject.Core.csproj|solutionrelative:hotelproject.core\\enams\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.identity\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F82C315-35A2-449D-8767-C0E3AB1695C6}|HotelProject.Identity\\HotelProject.Identity.csproj|solutionrelative:hotelproject.identity\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39D02BA6-23F9-430A-A60C-C47983C393CA}|HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39D02BA6-23F9-430A-A60C-C47983C393CA}|HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj|solutionrelative:hotelproject.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelprojectmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32772FD2-3A44-4B8D-A48F-CAE4A20A5A64}|HotelProjectMVC\\HotelProjectMVC.csproj|solutionrelative:hotelprojectmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6EA8053-6D85-4E8E-941D-F05F5035E799}|HotelProject.Persistence\\HotelProject.Persistence.csproj|c:\\users\\admin\\desktop\\githabprojects\\hotelprojectmvc\\hotelproject.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,27 +106,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HotelProjectMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HotelProjectMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:59:32.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "HotelProjectMVC\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "HotelProjectMVC\\wwwroot\\favicon.ico -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-09-20T18:59:27.609Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "HotelProjectMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "HotelProjectMVC\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T18:59:22.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "HotelProjectMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "HotelProjectMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T18:59:13.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecretKey.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Core\\AccessConfigurations\\SecretKey.cs",
+              "RelativeDocumentMoniker": "HotelProject.Core\\AccessConfigurations\\SecretKey.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Core\\AccessConfigurations\\SecretKey.cs",
+              "RelativeToolTip": "HotelProject.Core\\AccessConfigurations\\SecretKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:16:28.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClaimNames.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\Constants\\ClaimNames.cs",
+              "RelativeDocumentMoniker": "HotelProject.Identity\\Constants\\ClaimNames.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\Constants\\ClaimNames.cs",
+              "RelativeToolTip": "HotelProject.Identity\\Constants\\ClaimNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:21:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HotelProjectClaimPrincipalFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\ClaimsPrincipalFactory\\HotelProjectClaimPrincipalFactory.cs",
+              "RelativeDocumentMoniker": "HotelProject.Identity\\ClaimsPrincipalFactory\\HotelProjectClaimPrincipalFactory.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\ClaimsPrincipalFactory\\HotelProjectClaimPrincipalFactory.cs",
+              "RelativeToolTip": "HotelProject.Identity\\ClaimsPrincipalFactory\\HotelProjectClaimPrincipalFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:11:16.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotelProject.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj",
+              "RelativeToolTip": "HotelProject.Infrastructure\\HotelProject.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T13:54:12.735Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "HotelProject.Persistence",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Persistence\\HotelProject.Persistence.csproj",
+              "RelativeDocumentMoniker": "HotelProject.Persistence\\HotelProject.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Persistence\\HotelProject.Persistence.csproj",
+              "RelativeToolTip": "HotelProject.Persistence\\HotelProject.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T13:55:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HotelProjectMVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\appsettings.Development.json",
+              "RelativeToolTip": "HotelProjectMVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T13:53:59.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\appsettings.json",
               "RelativeDocumentMoniker": "HotelProjectMVC\\appsettings.json",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\appsettings.json",
               "RelativeToolTip": "HotelProjectMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T11:48:05.226Z"
+              "WhenOpened": "2024-09-20T11:48:05.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "FodyWeavers.xml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Core\\FodyWeavers.xml",
               "RelativeDocumentMoniker": "HotelProject.Core\\FodyWeavers.xml",
@@ -98,31 +268,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "IdentityModule.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\IdentityModule.cs",
               "RelativeDocumentMoniker": "HotelProject.Identity\\IdentityModule.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\IdentityModule.cs",
               "RelativeToolTip": "HotelProject.Identity\\IdentityModule.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:08:22.655Z"
+              "WhenOpened": "2024-09-18T21:08:22.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HotelProjectIdentityDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\HotelProjectIdentityDBContext.cs",
               "RelativeDocumentMoniker": "HotelProject.Identity\\HotelProjectIdentityDBContext.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\HotelProjectIdentityDBContext.cs",
               "RelativeToolTip": "HotelProject.Identity\\HotelProjectIdentityDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T19:34:36.988Z"
+              "WhenOpened": "2024-09-18T19:34:36.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "HotelProject.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Core\\HotelProject.Core.csproj",
               "RelativeDocumentMoniker": "HotelProject.Core\\HotelProject.Core.csproj",
@@ -130,11 +302,12 @@
               "RelativeToolTip": "HotelProject.Core\\HotelProject.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-18T18:21:34.788Z"
+              "WhenOpened": "2024-09-18T18:21:34.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\Models\\Role.cs",
               "RelativeDocumentMoniker": "HotelProject.Identity\\Models\\Role.cs",
@@ -142,11 +315,12 @@
               "RelativeToolTip": "HotelProject.Identity\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T11:46:13.78Z"
+              "WhenOpened": "2024-09-18T11:46:13.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "GenderEnum.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Core\\Enams\\GenderEnum.cs",
               "RelativeDocumentMoniker": "HotelProject.Core\\Enams\\GenderEnum.cs",
@@ -158,20 +332,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\Models\\User.cs",
               "RelativeDocumentMoniker": "HotelProject.Identity\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\Models\\User.cs",
               "RelativeToolTip": "HotelProject.Identity\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T11:09:31.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "IHasIsDeletedProporty.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Core\\Entities\\IHasIsDeletedProporty.cs",
               "RelativeDocumentMoniker": "HotelProject.Core\\Entities\\IHasIsDeletedProporty.cs",
@@ -183,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "HotelProject.Core\\Entities\\BaseEntity.cs",
@@ -195,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Persistence\\Class1.cs",
               "RelativeDocumentMoniker": "HotelProject.Persistence\\Class1.cs",
@@ -207,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "HotelProject.Infrastructure\\Class1.cs",
@@ -219,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.BL\\Class1.cs",
               "RelativeDocumentMoniker": "HotelProject.BL\\Class1.cs",
@@ -231,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProjectMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "HotelProjectMVC\\Models\\ErrorViewModel.cs",
@@ -239,7 +413,8 @@
               "RelativeToolTip": "HotelProjectMVC\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T16:50:48.588Z"
+              "WhenOpened": "2024-09-16T16:50:48.588Z",
+              "EditorCaption": ""
             }
           ]
         }

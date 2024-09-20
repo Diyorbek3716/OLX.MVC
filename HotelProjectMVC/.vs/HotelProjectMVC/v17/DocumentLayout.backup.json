@@ -66,15 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
             },
             {
               "$type": "Document",
@@ -86,8 +82,7 @@
               "RelativeToolTip": "HotelProjectMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T11:48:05.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T11:48:05.226Z"
             },
             {
               "$type": "Document",
@@ -111,8 +106,7 @@
               "RelativeToolTip": "HotelProject.Identity\\IdentityModule.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:08:22.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T21:08:22.655Z"
             },
             {
               "$type": "Document",
@@ -124,8 +118,7 @@
               "RelativeToolTip": "HotelProject.Identity\\HotelProjectIdentityDBContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T19:34:36.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T19:34:36.988Z"
             },
             {
               "$type": "Document",
@@ -171,7 +164,7 @@
               "RelativeDocumentMoniker": "HotelProject.Identity\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\GithabProjects\\HotelProjectMVC\\HotelProject.Identity\\Models\\User.cs",
               "RelativeToolTip": "HotelProject.Identity\\Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T11:09:31.622Z",
               "EditorCaption": ""

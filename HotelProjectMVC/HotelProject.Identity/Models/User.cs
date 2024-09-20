@@ -24,14 +24,14 @@ namespace HotelProject.Identity.Models
         {
             FirstName=firstName;
             LastName=lastName;
-            UserName=(firstName+lastName).ToString();
+            UserName=(firstName + "_" + lastName).ToString();
             PhoneNumber=PhoneNamber;
         }
         public User(string firstName, string lastName, string PhoneNamber,string email, GenderEnum genderEnum, DateTime brithDate)
         {
             FirstName = firstName;
             LastName = lastName;
-            UserName = (firstName + lastName).ToString();
+            UserName = (firstName + "_" + lastName).ToString();
             PhoneNumber = PhoneNamber;
             Gender = genderEnum;
             Gender=genderEnum;
